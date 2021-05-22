@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Badabings</title>
+	<atom:link href="/category/category-1/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 01 Nov 2014 01:57:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>Post With Threaded Comments</title>
+		<link>/threaded-comments/</link>
+					<comments>/threaded-comments/#comments</comments>
+		
+		<dc:creator><![CDATA[John Doe]]></dc:creator>
+		<pubDate>Sat, 01 Nov 2014 01:57:18 +0000</pubDate>
+				<category><![CDATA[Category #1]]></category>
+		<category><![CDATA[Threaded Comments]]></category>
+		<guid isPermaLink="false">http://demo.studiopress.com/genesis/?p=20</guid>
+
+					<description><![CDATA[This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share what is on your mind. This is an example of a WordPress post, you [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share what is on your mind.</p>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share what is on your mind. This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>
+<h4>This is a Sample Heading</h4>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share what is on your mind.</p>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share what is on your mind. This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/threaded-comments/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Post With Image Aligned Left</title>
+		<link>/image-aligned-left/</link>
+					<comments>/image-aligned-left/#respond</comments>
+		
+		<dc:creator><![CDATA[John Doe]]></dc:creator>
+		<pubDate>Sat, 01 Nov 2014 01:57:05 +0000</pubDate>
+				<category><![CDATA[Category #1]]></category>
+		<category><![CDATA[Images Left]]></category>
+		<guid isPermaLink="false">http://demo.studiopress.com/genesis/?p=18</guid>
+
+					<description><![CDATA[Like the sharing buttons that you see here? Get the Simple Share plugin. This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like. This is an example of [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Like the sharing buttons that you see here? <a href="http://briangardner.com/genesis-simple-share/">Get the Simple Share plugin</a>.</p>
+<figure style="width: 140px" class="wp-caption alignleft"><img loading="lazy" alt="Heres a sample caption, with a sample image aligned left." src="https://www.studiopress.com/images/wordpress.png" width="140" height="140" /><figcaption class="wp-caption-text">Here&#039;s a sample caption with an image aligned left.</figcaption></figure>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like.</p>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind. This is an example of a WordPress post, you could edit this to put information about your site so readers know where you are coming from. You can create as many posts as you like.</p>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind. This is an example of a WordPress post, you could edit this to put information about yourself so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/image-aligned-left/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Post With Image Aligned Right</title>
+		<link>/image-aligned-right/</link>
+					<comments>/image-aligned-right/#respond</comments>
+		
+		<dc:creator><![CDATA[John Doe]]></dc:creator>
+		<pubDate>Sat, 01 Nov 2014 01:56:30 +0000</pubDate>
+				<category><![CDATA[Category #1]]></category>
+		<category><![CDATA[Images Right]]></category>
+		<guid isPermaLink="false">http://demo.studiopress.com/genesis/?p=16</guid>
+
+					<description><![CDATA[Like the sharing buttons that you see here? Get the Simple Share plugin. This is an example of a WordPress post, you could edit this to put information about yourself so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Like the sharing buttons that you see here? <a href="http://briangardner.com/genesis-simple-share/">Get the Simple Share plugin</a>.</p>
+<figure style="width: 140px" class="wp-caption alignright"><img loading="lazy" alt="Here's a sample caption with a sample image aligned right." src="https://www.studiopress.com/images/wordpress.png" width="140" height="140" /><figcaption class="wp-caption-text">Here's a sample caption with an image aligned right.</figcaption></figure>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind. This is an example of a WordPress post, you could edit this to put information about your site so readers know where you are coming from. You can create as many posts as you like.</p>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind. This is an example of a WordPress post, you could edit this to put information about yourself so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/image-aligned-right/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Post With Image Centered</title>
+		<link>/image-centered/</link>
+					<comments>/image-centered/#respond</comments>
+		
+		<dc:creator><![CDATA[John Doe]]></dc:creator>
+		<pubDate>Sat, 01 Nov 2014 01:55:21 +0000</pubDate>
+				<category><![CDATA[Category #1]]></category>
+		<category><![CDATA[Images Centered]]></category>
+		<guid isPermaLink="false">http://demo.studiopress.com/genesis/?p=13</guid>
+
+					<description><![CDATA[Like the sharing buttons that you see here? Get the Simple Share plugin. This is an example of a WordPress post, you could edit this to put information about yourself so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what [&#8230;]]]></description>
+										<content:encoded><![CDATA[<figure style="width: 140px" class="wp-caption aligncenter"><img loading="lazy" alt="Here's a sample caption with a sample image centered." src="https://www.studiopress.com/images/wordpress.png" width="140" height="140" /><figcaption class="wp-caption-text">Here's a sample caption with an image centered.</figcaption></figure>
+<p>Like the sharing buttons that you see here? <a href="http://briangardner.com/genesis-simple-share/">Get the Simple Share plugin</a>.</p>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind. This is an example of a WordPress post, you could edit this to put information about yourself so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind. This is an example of a WordPress post, you could edit this to put information about yourself so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/image-centered/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Post With an Unordered List</title>
+		<link>/unordered-list/</link>
+					<comments>/unordered-list/#respond</comments>
+		
+		<dc:creator><![CDATA[John Doe]]></dc:creator>
+		<pubDate>Sat, 01 Nov 2014 01:54:48 +0000</pubDate>
+				<category><![CDATA[Category #1]]></category>
+		<category><![CDATA[Unordered Lists]]></category>
+		<guid isPermaLink="false">http://demo.studiopress.com/genesis/?p=11</guid>
+
+					<description><![CDATA[Like the sharing buttons that you see here? Get the Simple Share plugin. This is an example of a WordPress post, you could edit this to put information about yourself so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Like the sharing buttons that you see here? <a href="http://briangardner.com/genesis-simple-share/">Get the Simple Share plugin</a>.</p>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>
+<ul>
+<li>Unordered list item #1</li>
+<li>Unordered list item #2</li>
+<li>Unordered list item #3</li>
+<li>Unordered list item #4</li>
+<li>Unordered list item #5</li>
+</ul>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind. This is an example of a WordPress post, you could edit this to put information about yourself so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/unordered-list/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Post With an Ordered List</title>
+		<link>/ordered-list/</link>
+					<comments>/ordered-list/#respond</comments>
+		
+		<dc:creator><![CDATA[John Doe]]></dc:creator>
+		<pubDate>Sat, 01 Nov 2014 01:54:32 +0000</pubDate>
+				<category><![CDATA[Category #1]]></category>
+		<category><![CDATA[Ordered Lists]]></category>
+		<guid isPermaLink="false">http://demo.studiopress.com/genesis/?p=9</guid>
+
+					<description><![CDATA[Like the sharing buttons that you see here? Get the Simple Share plugin. This is an example of a WordPress post, you could edit this to put information about yourself so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Like the sharing buttons that you see here? <a href="http://briangardner.com/genesis-simple-share/">Get the Simple Share plugin</a>.</p>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>
+<ol>
+<li>Ordered list item #1</li>
+<li>Ordered list item #2</li>
+<li>Ordered list item #3</li>
+<li>Ordered list item #4</li>
+<li>Ordered list item #5</li>
+</ol>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind. This is an example of a WordPress post, you could edit this to put information about yourself so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/ordered-list/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Post With a Blockquote</title>
+		<link>/blockquote/</link>
+					<comments>/blockquote/#respond</comments>
+		
+		<dc:creator><![CDATA[John Doe]]></dc:creator>
+		<pubDate>Sat, 01 Nov 2014 01:54:12 +0000</pubDate>
+				<category><![CDATA[Category #1]]></category>
+		<category><![CDATA[Blockquotes]]></category>
+		<guid isPermaLink="false">http://demo.studiopress.com/genesis/?p=7</guid>
+
+					<description><![CDATA[This is an example of a WordPress post, you could edit this to put information about yourself so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind. This is an example of a WordPress post, you [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>This is an example of a WordPress post, you could edit this to put information about yourself so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>
+<blockquote><p>This is an example of a WordPress post, you could edit this to put information about yourself so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p></blockquote>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind. This is an example of a WordPress post, you could edit this to put information about yourself so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blockquote/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Post With Headlines</title>
+		<link>/headlines/</link>
+					<comments>/headlines/#respond</comments>
+		
+		<dc:creator><![CDATA[John Doe]]></dc:creator>
+		<pubDate>Sat, 01 Nov 2014 01:52:58 +0000</pubDate>
+				<category><![CDATA[Category #1]]></category>
+		<category><![CDATA[Category #2]]></category>
+		<category><![CDATA[Category #3]]></category>
+		<category><![CDATA[Category #4]]></category>
+		<category><![CDATA[Category #5]]></category>
+		<category><![CDATA[Sub Category 1.1]]></category>
+		<category><![CDATA[Sub Category 1.2]]></category>
+		<category><![CDATA[Sub Category 1.3]]></category>
+		<category><![CDATA[Sub Category 2.1]]></category>
+		<category><![CDATA[Sub Category 2.2]]></category>
+		<category><![CDATA[Sub Category 2.3]]></category>
+		<category><![CDATA[Headlines]]></category>
+		<guid isPermaLink="false">http://demo.studiopress.com/genesis/?p=5</guid>
+
+					<description><![CDATA[Like the sharing buttons that you see here? Get the Simple Share plugin. Headline 1 Headline 2 Headline 3 Headline 4 Headline 5 Headline 6]]></description>
+										<content:encoded><![CDATA[<p>Like the sharing buttons that you see here? <a href="http://briangardner.com/genesis-simple-share/">Get the Simple Share plugin</a>.</p>
+<h1>Headline 1</h1>
+<h2>Headline 2</h2>
+<h3>Headline 3</h3>
+<h4>Headline 4</h4>
+<h5>Headline 5</h5>
+<h6>Headline 6</h6>
+]]></content:encoded>
+					
+					<wfw:commentRss>/headlines/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Sample Post With Threaded Comments</title>
+		<link>/threaded-comments-2/</link>
+					<comments>/threaded-comments-2/#comments</comments>
+		
+		<dc:creator><![CDATA[John Doe]]></dc:creator>
+		<pubDate>Sun, 01 Sep 2013 01:57:18 +0000</pubDate>
+				<category><![CDATA[Category #1]]></category>
+		<category><![CDATA[Threaded Comments]]></category>
+		<guid isPermaLink="false">http://demo.studiopress.com/genesis/?p=20</guid>
+
+					<description><![CDATA[This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind. This is an example of a [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind. This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind. This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/threaded-comments-2/feed/</wfw:commentRss>
+			<slash:comments>8</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Sample Post With Image Aligned Left</title>
+		<link>/image-aligned-left-2/</link>
+					<comments>/image-aligned-left-2/#respond</comments>
+		
+		<dc:creator><![CDATA[John Doe]]></dc:creator>
+		<pubDate>Sun, 01 Sep 2013 01:57:05 +0000</pubDate>
+				<category><![CDATA[Category #1]]></category>
+		<category><![CDATA[Images Left]]></category>
+		<guid isPermaLink="false">http://demo.studiopress.com/genesis/?p=18</guid>
+
+					<description><![CDATA[This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like. This is an example of a WordPress post, you could edit this to put information about yourself or [&#8230;]]]></description>
+										<content:encoded><![CDATA[<figure style="width: 142px" class="wp-caption alignleft"><img loading="lazy" alt="Heres a sample caption, with a sample image aligned left." src="https://andrewl16.sg-host.com/wp-content/uploads/2013/06/wordpress.png" width="142" height="142" /><figcaption class="wp-caption-text">Here&#39;s a sample caption with an image aligned left.</figcaption></figure>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like.</p>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind. This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like.</p>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind. This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/image-aligned-left-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

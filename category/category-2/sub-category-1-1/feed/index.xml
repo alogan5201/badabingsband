@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Badabings</title>
+	<atom:link href="/category/category-2/sub-category-1-1/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 01 Nov 2014 01:52:58 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>Post With Headlines</title>
+		<link>/headlines/</link>
+					<comments>/headlines/#respond</comments>
+		
+		<dc:creator><![CDATA[John Doe]]></dc:creator>
+		<pubDate>Sat, 01 Nov 2014 01:52:58 +0000</pubDate>
+				<category><![CDATA[Category #1]]></category>
+		<category><![CDATA[Category #2]]></category>
+		<category><![CDATA[Category #3]]></category>
+		<category><![CDATA[Category #4]]></category>
+		<category><![CDATA[Category #5]]></category>
+		<category><![CDATA[Sub Category 1.1]]></category>
+		<category><![CDATA[Sub Category 1.2]]></category>
+		<category><![CDATA[Sub Category 1.3]]></category>
+		<category><![CDATA[Sub Category 2.1]]></category>
+		<category><![CDATA[Sub Category 2.2]]></category>
+		<category><![CDATA[Sub Category 2.3]]></category>
+		<category><![CDATA[Headlines]]></category>
+		<guid isPermaLink="false">http://demo.studiopress.com/genesis/?p=5</guid>
+
+					<description><![CDATA[Like the sharing buttons that you see here? Get the Simple Share plugin. Headline 1 Headline 2 Headline 3 Headline 4 Headline 5 Headline 6]]></description>
+										<content:encoded><![CDATA[<p>Like the sharing buttons that you see here? <a href="http://briangardner.com/genesis-simple-share/">Get the Simple Share plugin</a>.</p>
+<h1>Headline 1</h1>
+<h2>Headline 2</h2>
+<h3>Headline 3</h3>
+<h4>Headline 4</h4>
+<h5>Headline 5</h5>
+<h6>Headline 6</h6>
+]]></content:encoded>
+					
+					<wfw:commentRss>/headlines/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

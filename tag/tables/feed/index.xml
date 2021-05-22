@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Badabings</title>
+	<atom:link href="/tag/tables/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sun, 01 Sep 2013 01:53:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>Sample Post With a Table</title>
+		<link>/sample-table/</link>
+					<comments>/sample-table/#respond</comments>
+		
+		<dc:creator><![CDATA[John Doe]]></dc:creator>
+		<pubDate>Sun, 01 Sep 2013 01:53:31 +0000</pubDate>
+				<category><![CDATA[Category #1]]></category>
+		<category><![CDATA[Tables]]></category>
+		<guid isPermaLink="false">http://www.genesisframework.com/?p=447</guid>
+
+					<description><![CDATA[This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind. Developer Location Job Title Brian Gardner [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>
+<table>
+<tbody>
+<tr>
+<th>Developer</th>
+<th>Location</th>
+<th>Job Title</th>
+</tr>
+<tr class="odd">
+<td>Brian Gardner</td>
+<td>Illinois</td>
+<td>Project Lead</td>
+</tr>
+<tr class="even">
+<td>Nathan Rice</td>
+<td>South Carolina</td>
+<td>Lead Developer</td>
+</tr>
+<tr class="odd">
+<td>Ron Rennick</td>
+<td>Canada</td>
+<td>Lead Developer</td>
+</tr>
+<tr class="even">
+<td>Rafal Tomal</td>
+<td>Illinois</td>
+<td>Lead Designer</td>
+</tr>
+<tr class="odd">
+<td>Lauren Mancke</td>
+<td>South Carolina</td>
+<td>Lead Designer</td>
+</tr>
+</tbody>
+</table>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind. This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>
+<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind. This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/sample-table/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

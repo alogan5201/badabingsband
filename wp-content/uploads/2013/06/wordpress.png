@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head itemscope itemtype="https://schema.org/WebSite">
+<meta charset="UTF-8" />
+<meta name="description" content="Supports HTML5 &amp; Responsive Design" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Genesis Framework – Supports HTML5 &amp; Responsive Design</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Genesis Framework &raquo; Feed" href="https://demo.studiopress.com/genesis-sample/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Genesis Framework &raquo; Comments Feed" href="https://demo.studiopress.com/genesis-sample/comments/feed/" />
+<link rel="canonical" href="https://demo.studiopress.com/genesis-sample/" />
+		<script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/demo.studiopress.com\/genesis-sample\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.2"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='atomic-blocks-fontawesome-css'  href='https://demo.studiopress.com/genesis-sample/wp-content/plugins/atomic-blocks/dist/assets/fontawesome/css/all.min.css?ver=1578428695' media='all' />
+<link rel='stylesheet' id='genesis-sample-css'  href='https://demo.studiopress.com/genesis-sample/wp-content/themes/genesis-sample/style.css?ver=3.2.0' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://demo.studiopress.com/genesis-sample/wp-includes/css/dist/block-library/style.min.css?ver=5.3.2' media='all' />
+<link rel='stylesheet' id='atomic-blocks-style-css-css'  href='https://demo.studiopress.com/genesis-sample/wp-content/plugins/atomic-blocks/dist/blocks.style.build.css?ver=1578428694' media='all' />
+<link rel='stylesheet' id='wc-block-style-css'  href='https://demo.studiopress.com/genesis-sample/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=2.4.5' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='https://demo.studiopress.com/genesis-sample/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=3.8.1' media='all' />
+<style id='woocommerce-layout-inline-css'>
+
+	.infinite-scroll .woocommerce-pagination {
+		display: none;
+	}
+</style>
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='https://demo.studiopress.com/genesis-sample/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=3.8.1' media='only screen and (max-width: 860px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='https://demo.studiopress.com/genesis-sample/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=3.8.1' media='all' />
+<link rel='stylesheet' id='genesis-sample-woocommerce-styles-css'  href='https://demo.studiopress.com/genesis-sample/wp-content/themes/genesis-sample/lib/woocommerce/genesis-sample-woocommerce.css?ver=3.2.0' media='screen' />
+<style id='woocommerce-inline-inline-css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='genesis-sample-fonts-css'  href='https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C400i%2C600%2C700&#038;display=swap&#038;ver=3.2.0' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://demo.studiopress.com/genesis-sample/wp-includes/css/dashicons.min.css?ver=5.3.2' media='all' />
+<link rel='stylesheet' id='genesis-sample-gutenberg-css'  href='https://demo.studiopress.com/genesis-sample/wp-content/themes/genesis-sample/lib/gutenberg/front-end.css?ver=3.2.0' media='all' />
+<style id='genesis-sample-gutenberg-inline-css'>
+.ab-block-post-grid .ab-post-grid-items h2 a:hover {
+	color: #0073e5;
+}
+
+.site-container .wp-block-button .wp-block-button__link {
+	background-color: #0073e5;
+}
+
+.wp-block-button .wp-block-button__link:not(.has-background),
+.wp-block-button .wp-block-button__link:not(.has-background):focus,
+.wp-block-button .wp-block-button__link:not(.has-background):hover {
+	color: #ffffff;
+}
+
+.site-container .wp-block-button.is-style-outline .wp-block-button__link {
+	color: #0073e5;
+}
+
+.site-container .wp-block-button.is-style-outline .wp-block-button__link:focus,
+.site-container .wp-block-button.is-style-outline .wp-block-button__link:hover {
+	color: #2396ff;
+}		.site-container .has-small-font-size {
+			font-size: 12px;
+		}		.site-container .has-normal-font-size {
+			font-size: 18px;
+		}		.site-container .has-large-font-size {
+			font-size: 20px;
+		}		.site-container .has-larger-font-size {
+			font-size: 24px;
+		}		.site-container .has-theme-primary-color,
+		.site-container .wp-block-button .wp-block-button__link.has-theme-primary-color,
+		.site-container .wp-block-button.is-style-outline .wp-block-button__link.has-theme-primary-color {
+			color: #0073e5;
+		}
+
+		.site-container .has-theme-primary-background-color,
+		.site-container .wp-block-button .wp-block-button__link.has-theme-primary-background-color,
+		.site-container .wp-block-pullquote.is-style-solid-color.has-theme-primary-background-color {
+			background-color: #0073e5;
+		}		.site-container .has-theme-secondary-color,
+		.site-container .wp-block-button .wp-block-button__link.has-theme-secondary-color,
+		.site-container .wp-block-button.is-style-outline .wp-block-button__link.has-theme-secondary-color {
+			color: #0073e5;
+		}
+
+		.site-container .has-theme-secondary-background-color,
+		.site-container .wp-block-button .wp-block-button__link.has-theme-secondary-background-color,
+		.site-container .wp-block-pullquote.is-style-solid-color.has-theme-secondary-background-color {
+			background-color: #0073e5;
+		}
+</style>
+<link rel='stylesheet' id='simple-social-icons-font-css'  href='https://demo.studiopress.com/genesis-sample/wp-content/plugins/simple-social-icons/css/style.css?ver=3.0.1' media='all' />
+<script src='https://demo.studiopress.com/genesis-sample/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script src='https://demo.studiopress.com/genesis-sample/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script src='https://demo.studiopress.com/genesis-sample/wp-content/plugins/simple-social-icons/svgxuse.js?ver=1.1.21'></script>
+<link rel='https://api.w.org/' href='https://demo.studiopress.com/genesis-sample/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://demo.studiopress.com/genesis-sample/xmlrpc.php?rsd" />
+<link rel="alternate" type="application/json+oembed" href="https://demo.studiopress.com/genesis-sample/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdemo.studiopress.com%2Fgenesis-sample%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://demo.studiopress.com/genesis-sample/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdemo.studiopress.com%2Fgenesis-sample%2F&#038;format=xml" />
+<style type="text/css"> .enews .screenread {
+	height: 1px;
+    left: -1000em;
+    overflow: hidden;
+    position: absolute;
+    top: -1000em;
+    width: 1px; } </style><link rel="icon" href="https://demo.studiopress.com/genesis-sample/wp-content/themes/genesis-sample/images/favicon.ico" />
+<link rel="pingback" href="https://demo.studiopress.com/genesis-sample/xmlrpc.php" />
+<meta itemprop="name" content="Genesis Framework" />
+<meta itemprop="url" content="https://demo.studiopress.com/genesis-sample/" />
+<style type="text/css" id="gs-faq-critical">.gs-faq {padding: 5px 0;}.gs-faq__question {display: none;margin-top: 10px;text-align: left;white-space: normal;width: 100%;}.js .gs-faq__question {display: block;}.gs-faq__question:first-of-type {margin-top: 0;}.js .gs-faq__answer {display: none;padding: 5px;}.gs-faq__answer p:last-of-type {margin-bottom: 0;}.js .gs-faq__answer__heading {display: none;}.gs-faq__answer.no-animation.gs-faq--expanded {display: block;}</style>	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	</head>
+<body class="home page-template-default page page-id-1600 wp-embed-responsive theme-genesis woocommerce-no-js header-full-width full-width-content genesis-title-hidden genesis-breadcrumbs-hidden genesis-singular-image-hidden genesis-footer-widgets-visible first-block-core-media-text first-block-align-full" itemscope itemtype="https://schema.org/WebPage"><div class="site-container"><ul class="genesis-skip-link"><li><a href="#genesis-nav-primary" class="screen-reader-shortcut"> Skip to primary navigation</a></li><li><a href="#genesis-content" class="screen-reader-shortcut"> Skip to main content</a></li><li><a href="#genesis-footer-widgets" class="screen-reader-shortcut"> Skip to footer</a></li></ul><header class="site-header" itemscope itemtype="https://schema.org/WPHeader"><div class="wrap"><div class="title-area"><p class="site-title" itemprop="headline"><a href="https://demo.studiopress.com/genesis-sample/">Genesis Framework</a></p><p class="site-description" itemprop="description">Supports HTML5 &amp; Responsive Design</p></div><nav class="nav-primary" aria-label="Main" itemscope itemtype="https://schema.org/SiteNavigationElement" id="genesis-nav-primary"><div class="wrap"><ul id="menu-header-menu" class="menu genesis-nav-menu menu-primary js-superfish"><li id="menu-item-1406" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1406"><a href="#" itemprop="url"><span itemprop="name">Sample</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-1394" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1394"><a href="#" itemprop="url"><span itemprop="name">Sub Menu #1</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-1397" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1397"><a href="#" itemprop="url"><span itemprop="name">Sub Sub Menu #1</span></a></li>
+		<li id="menu-item-1398" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1398"><a href="#" itemprop="url"><span itemprop="name">Sub Sub Menu #2</span></a></li>
+		<li id="menu-item-1399" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1399"><a href="#" itemprop="url"><span itemprop="name">Sub Sub Menu #3</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-1395" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1395"><a href="#" itemprop="url"><span itemprop="name">Sub Menu #2</span></a></li>
+	<li id="menu-item-1396" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1396"><a href="#" itemprop="url"><span itemprop="name">Sub Menu #3</span></a></li>
+</ul>
+</li>
+<li id="menu-item-1392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1392"><a href="https://demo.studiopress.com/genesis-sample/features/" itemprop="url"><span itemprop="name">Features</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-1637" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1637"><a target="_blank" rel="noopener noreferrer" href="https://demo.studiopress.com/genesis-sample-amp/" itemprop="url"><span itemprop="name">AMP Demo</span></a></li>
+	<li id="menu-item-1668" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1668"><a href="https://demo.studiopress.com/genesis-sample/homepage-color/" itemprop="url"><span itemprop="name">Color Starter Pack</span></a></li>
+	<li id="menu-item-1393" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1393"><a href="https://demo.studiopress.com/genesis-sample/author/admin/" itemprop="url"><span itemprop="name">Author Page</span></a></li>
+	<li id="menu-item-1407" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1407"><a href="https://demo.studiopress.com/genesis-sample/paris/" itemprop="url"><span itemprop="name">Blog Post</span></a></li>
+	<li id="menu-item-1479" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1479"><a href="https://demo.studiopress.com/genesis-sample/category/category-1/" itemprop="url"><span itemprop="name">Category Page</span></a></li>
+	<li id="menu-item-1507" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1507"><a href="https://demo.studiopress.com/genesis-sample/columns/" itemprop="url"><span itemprop="name">Columns Page</span></a></li>
+	<li id="menu-item-1490" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1490"><a href="https://demo.studiopress.com/genesis-sample/contact/" itemprop="url"><span itemprop="name">Contact Page</span></a></li>
+	<li id="menu-item-1405" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1405"><a href="https://demo.studiopress.com/genesis-sample/landing/" itemprop="url"><span itemprop="name">Landing Page</span></a></li>
+</ul>
+</li>
+<li id="menu-item-1465" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1465"><a href="#" itemprop="url"><span itemprop="name">Layouts</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-1420" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1420"><a href="https://demo.studiopress.com/genesis-sample/layouts/content-sidebar/" itemprop="url"><span itemprop="name">Content / Sidebar</span></a></li>
+	<li id="menu-item-1419" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1419"><a href="https://demo.studiopress.com/genesis-sample/layouts/sidebar-content/" itemprop="url"><span itemprop="name">Sidebar / Content</span></a></li>
+	<li id="menu-item-1418" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1418"><a href="https://demo.studiopress.com/genesis-sample/layouts/full-width-content/" itemprop="url"><span itemprop="name">Full-Width Content</span></a></li>
+</ul>
+</li>
+<li id="menu-item-1450" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1450"><a href="https://demo.studiopress.com/genesis-sample/woocommerce/shop/" itemprop="url"><span itemprop="name">Our Shop</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-1451" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-1451"><a href="https://demo.studiopress.com/genesis-sample/product/mug/" itemprop="url"><span itemprop="name">Product</span></a></li>
+	<li id="menu-item-1447" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1447"><a href="https://demo.studiopress.com/genesis-sample/woocommerce/my-account/" itemprop="url"><span itemprop="name">My Account</span></a></li>
+	<li id="menu-item-1449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1449"><a href="https://demo.studiopress.com/genesis-sample/woocommerce/cart/" itemprop="url"><span itemprop="name">Shopping Cart</span></a></li>
+	<li id="menu-item-1448" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1448"><a href="https://demo.studiopress.com/genesis-sample/woocommerce/checkout/" itemprop="url"><span itemprop="name">Checkout</span></a></li>
+</ul>
+</li>
+<li id="menu-item-1590" class="menu-bold menu-item menu-item-type-post_type menu-item-object-page menu-item-1590"><a href="https://demo.studiopress.com/genesis-sample/gutenberg-optimized/" itemprop="url"><span itemprop="name">Gutenberg Optimized</span></a></li>
+<li id="menu-item-1401" class="menu-highlight menu-item menu-item-type-custom menu-item-object-custom menu-item-1401"><a href="https://github.com/studiopress/genesis-sample/" itemprop="url"><span itemprop="name">Download</span></a></li>
+</ul></div></nav></div></header><div class="site-inner"><div class="content-sidebar-wrap"><main class="content" id="genesis-content"><article class="post-1600 page type-page status-publish entry" itemscope itemtype="https://schema.org/CreativeWork"><div class="entry-content" itemprop="text">
+<div class="wp-block-media-text alignfull is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://demo.studiopress.com/genesis-sample/files/2019/01/sample.jpg" alt="Mountains" class="wp-image-1601" srcset="https://demo.studiopress.com/genesis-sample/files/2019/01/sample.jpg 800w, https://demo.studiopress.com/genesis-sample/files/2019/01/sample-267x300.jpg 267w, https://demo.studiopress.com/genesis-sample/files/2019/01/sample-768x864.jpg 768w, https://demo.studiopress.com/genesis-sample/files/2019/01/sample-655x737.jpg 655w" sizes="(max-width: 800px) 100vw, 800px" /></figure><div class="wp-block-media-text__content">
+<h1>We&#8217;ll teach you how to build and grow an online business.</h1>
+
+
+
+<p>All the resources, training, and support you need to run your dream online business! </p>
+
+
+
+<div class="wp-block-button alignleft is-style-default"><a class="wp-block-button__link" href="#">Learn More</a></div>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+</div></div>
+
+
+
+<div style="background-color:#333;padding-top:4.5%" class="wp-block-atomic-blocks-ab-container ab-block-container alignfull"><div class="ab-container-inside"><div class="ab-container-content" style="max-width:1600px">
+<div style="background-color:#333333;text-align:center" class="wp-block-atomic-blocks-ab-cta ab-block-cta"><div class="ab-cta-content"><h2 class="ab-cta-title ab-font-size-32" style="color:#f5f5f5">Ready to take your next step?</h2><div class="ab-cta-text ab-font-size-32" style="color:#f5f5f5"><p>Grow your audience and build a profitable online business.</p></div></div><div class="ab-cta-button"><a href="#" target="_self" rel="noopener noreferrer" class="ab-button ab-button-shape-rounded ab-button-size-medium" style="color:#ffffff;background-color:#0072e5">Get Started Today</a></div></div>
+</div></div></div>
+
+
+
+<div style="color:#ddd" class="wp-block-atomic-blocks-ab-spacer ab-block-spacer ab-divider-solid ab-divider-size-1"><hr style="height:60px"/></div>
+
+
+
+<h2 class="has-text-align-center">What people are saying</h2>
+
+
+
+<div style="color:#ddd" class="wp-block-atomic-blocks-ab-spacer ab-block-spacer ab-divider-solid ab-divider-size-1"><hr style="height:25px"/></div>
+
+
+
+<div class="wp-block-atomic-blocks-ab-columns ab-layout-columns-3 ab-3-col-equal alignwide"><div class="ab-layout-column-wrap ab-block-layout-column-gap-2 ab-is-responsive-column">
+<div class="wp-block-atomic-blocks-ab-column ab-block-layout-column"><div class="ab-block-layout-column-inner">
+<div style="background-color:#f2f2f2;color:#32373c" class="wp-block-atomic-blocks-ab-testimonial left-aligned ab-font-size-18 ab-block-testimonial"><div class="ab-testimonial-text"><p>Your course helped me to grow my email list from 500 to over 10,000 subscribers—all within 3 months! </p></div><div class="ab-testimonial-info"><h2 class="ab-testimonial-name" style="color:#32373c">Jane</h2><small class="ab-testimonial-title" style="color:#32373c">Food Blogger</small></div></div>
+</div></div>
+
+
+
+<div class="wp-block-atomic-blocks-ab-column ab-block-layout-column"><div class="ab-block-layout-column-inner">
+<div style="background-color:#f2f2f2;color:#32373c" class="wp-block-atomic-blocks-ab-testimonial left-aligned ab-font-size-18 ab-block-testimonial"><div class="ab-testimonial-text"><p>I started using your email marketing technique and it helped me to make $5,000 more a month without any extra work! </p></div><div class="ab-testimonial-info"><h2 class="ab-testimonial-name" style="color:#32373c">Rob</h2><small class="ab-testimonial-title" style="color:#32373c">Copywriter</small></div></div>
+</div></div>
+
+
+
+<div class="wp-block-atomic-blocks-ab-column ab-block-layout-column"><div class="ab-block-layout-column-inner">
+<div style="background-color:#f2f2f2;color:#32373c" class="wp-block-atomic-blocks-ab-testimonial left-aligned ab-font-size-18 ab-block-testimonial"><div class="ab-testimonial-text"><p>I was skeptical but I found that your system had multiplied my revenue by 40% after just the first quarter! </p></div><div class="ab-testimonial-info"><h2 class="ab-testimonial-name" style="color:#32373c">Susan</h2><small class="ab-testimonial-title" style="color:#32373c">Entrepreneur</small></div></div>
+</div></div>
+</div></div>
+
+
+
+<div style="color:#ddd" class="wp-block-atomic-blocks-ab-spacer ab-block-spacer ab-divider-solid ab-divider-size-1"><hr style="height:30px"/></div>
+
+
+
+<div class="wp-block-atomic-blocks-ab-columns ab-layout-columns-2 ab-2-col-equal ab-has-custom-background-color ab-has-custom-text-color ab-columns-center alignfull" style="padding-top:14%;padding-right:5%;padding-bottom:8%;padding-left:5%;background-color:#333333;color:#ffffff"><div class="ab-layout-column-wrap ab-block-layout-column-gap-2 ab-is-responsive-column" style="max-width:1062px">
+<div class="wp-block-atomic-blocks-ab-column ab-block-layout-column"><div class="ab-block-layout-column-inner">
+<p style="color:#ffffff;font-size:40px" class="has-text-color has-text-align-left">Contact us today</p>
+</div></div>
+
+
+
+<div class="wp-block-atomic-blocks-ab-column ab-block-layout-column"><div class="ab-block-layout-column-inner">
+<div class="wp-block-button alignright is-style-outline home-contact"><a class="wp-block-button__link has-text-color no-border-radius" href="/contact" style="color:#ffffff">Get in touch</a></div>
+</div></div>
+</div></div>
+
+
+
+<div style="color:#ddd" class="wp-block-atomic-blocks-ab-spacer ab-block-spacer ab-divider-solid ab-divider-size-1"><hr style="height:60px"/></div>
+
+
+
+<div class="wp-block-atomic-blocks-ab-columns ab-layout-columns-2 ab-2-col-equal alignwide"><div class="ab-layout-column-wrap ab-block-layout-column-gap-2 ab-is-responsive-column">
+<div class="wp-block-atomic-blocks-ab-column ab-block-layout-column"><div class="ab-block-layout-column-inner">
+<div class="wp-block-atomic-blocks-ab-accordion ab-font-size-18 ab-block-accordion"><details open><summary class="ab-accordion-title">Can I phone or email you?</summary><div class="ab-accordion-text">
+<p>You can reach us on our <a href="/contact">contact page</a> or by calling us at 1.123.456.7891</p>
+</div></details></div>
+
+
+
+<div class="wp-block-atomic-blocks-ab-accordion ab-font-size-18 ab-block-accordion"><details><summary class="ab-accordion-title">How long have you been in business?</summary><div class="ab-accordion-text">
+<p>Our team has a combined experience of over 60 years.</p>
+</div></details></div>
+
+
+
+<div class="wp-block-atomic-blocks-ab-accordion ab-font-size-18 ab-block-accordion"><details><summary class="ab-accordion-title">What is your return policy?</summary><div class="ab-accordion-text">
+<p>We offer a 30-day return policy for all unused items. For more information, please view our terms of service.</p>
+</div></details></div>
+</div></div>
+
+
+
+<div class="wp-block-atomic-blocks-ab-column ab-block-layout-column"><div class="ab-block-layout-column-inner">
+<figure class="wp-block-image size-large"><img src="https://demo.studiopress.com/genesis-sample/files/2018/02/uninvited-1024x585.jpg" alt="About" class="wp-image-1382" srcset="https://demo.studiopress.com/genesis-sample/files/2018/02/uninvited-1024x585.jpg 1024w, https://demo.studiopress.com/genesis-sample/files/2018/02/uninvited-300x171.jpg 300w, https://demo.studiopress.com/genesis-sample/files/2018/02/uninvited-768x439.jpg 768w, https://demo.studiopress.com/genesis-sample/files/2018/02/uninvited.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+</div></div>
+</div></div>
+</div></article></main></div></div><div class="footer-widgets" id="genesis-footer-widgets"><h2 class="genesis-sidebar-title screen-reader-text">Footer</h2><div class="wrap"><div class="widget-area footer-widgets-1 footer-widget-area"><section id="text-2" class="widget widget_text"><div class="widget-wrap"><h3 class="widgettitle widget-title">Design</h3>
+			<div class="textwidget"><p>With an emphasis on typography, white space, and mobile-optimized design, your website will look absolutely breathtaking.</p>
+<p><a href="#">Learn more about design</a>.</p>
+</div>
+		</div></section>
+</div><div class="widget-area footer-widgets-2 footer-widget-area"><section id="text-4" class="widget widget_text"><div class="widget-wrap"><h3 class="widgettitle widget-title">Content</h3>
+			<div class="textwidget"><p>Our team will teach you the art of writing audience-focused content that will help you achieve the success you truly deserve.</p>
+<p><a href="#">Learn more about content</a>.</p>
+</div>
+		</div></section>
+</div><div class="widget-area footer-widgets-3 footer-widget-area"><section id="text-3" class="widget widget_text"><div class="widget-wrap"><h3 class="widgettitle widget-title">Strategy</h3>
+			<div class="textwidget"><p>We help creative entrepreneurs build their digital business by focusing on three key elements of a successful online platform.</p>
+<p><a href="#">Learn more about strategy</a>.</p>
+</div>
+		</div></section>
+</div></div></div><footer class="site-footer" itemscope itemtype="https://schema.org/WPFooter"><div class="wrap"><p>Copyright &#x000A9;&nbsp;2020 · <a href="https://demo.studiopress.com/">Genesis Sample</a> on <a href="https://www.studiopress.com/">Genesis Framework</a> · <a href="https://wordpress.org/">WordPress</a> · <a href="https://demo.studiopress.com/genesis-sample/wp-login.php">Log in</a></p><nav class="nav-secondary" aria-label="Secondary" itemscope itemtype="https://schema.org/SiteNavigationElement"><div class="wrap"><ul id="menu-footer-menu" class="menu genesis-nav-menu menu-secondary js-superfish"><li id="menu-item-1466" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1466"><a href="#" itemprop="url"><span itemprop="name">Facebook</span></a></li>
+<li id="menu-item-1467" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1467"><a href="#" itemprop="url"><span itemprop="name">Instagram</span></a></li>
+<li id="menu-item-1468" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1468"><a href="#" itemprop="url"><span itemprop="name">Twitter</span></a></li>
+<li id="menu-item-1469" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1469"><a href="#" itemprop="url"><span itemprop="name">LinkedIn</span></a></li>
+<li id="menu-item-1470" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1470"><a href="#" itemprop="url"><span itemprop="name">Pinterest</span></a></li>
+</ul></div></nav></div></footer></div>	<script type="text/javascript">
+		function atomicBlocksShare( url, title, w, h ){
+			var left = ( window.innerWidth / 2 )-( w / 2 );
+			var top  = ( window.innerHeight / 2 )-( h / 2 );
+			return window.open(url, title, 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width=600, height=600, top='+top+', left='+left);
+		}
+	</script>
+	<style type="text/css" media="screen"></style>	<script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+	<script src='https://demo.studiopress.com/genesis-sample/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script>
+var wc_add_to_cart_params = {"ajax_url":"\/genesis-sample\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/genesis-sample\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/demo.studiopress.com\/genesis-sample\/woocommerce\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+</script>
+<script src='https://demo.studiopress.com/genesis-sample/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.8.1'></script>
+<script src='https://demo.studiopress.com/genesis-sample/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4'></script>
+<script>
+var woocommerce_params = {"ajax_url":"\/genesis-sample\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/genesis-sample\/?wc-ajax=%%endpoint%%"};
+</script>
+<script src='https://demo.studiopress.com/genesis-sample/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.8.1'></script>
+<script>
+var wc_cart_fragments_params = {"ajax_url":"\/genesis-sample\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/genesis-sample\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_2635c486294eee42effb6278d5558941","fragment_name":"wc_fragments_2635c486294eee42effb6278d5558941","request_timeout":"5000"};
+</script>
+<script src='https://demo.studiopress.com/genesis-sample/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.8.1'></script>
+<script>
+		jQuery( 'body' ).bind( 'wc_fragments_refreshed', function() {
+			jQuery( 'body' ).trigger( 'jetpack-lazy-images-load' );
+		} );
+	
+</script>
+<script src='https://demo.studiopress.com/genesis-sample/wp-content/plugins/atomic-blocks/dist/assets/js/dismiss.js?ver=1578428695'></script>
+<script src='https://demo.studiopress.com/genesis-sample/wp-includes/js/hoverIntent.min.js?ver=1.8.1'></script>
+<script src='https://demo.studiopress.com/genesis-sample/wp-content/themes/genesis/lib/js/menu/superfish.min.js?ver=1.7.10'></script>
+<script src='https://demo.studiopress.com/genesis-sample/wp-content/themes/genesis/lib/js/menu/superfish.args.min.js?ver=3.2.1'></script>
+<script src='https://demo.studiopress.com/genesis-sample/wp-content/themes/genesis/lib/js/skip-links.min.js?ver=3.2.1'></script>
+<script>
+var genesis_responsive_menu = {"mainMenu":"Menu","menuIconClass":"dashicons-before dashicons-menu","subMenu":"Submenu","subMenuIconClass":"dashicons-before dashicons-arrow-down-alt2","menuClasses":{"others":[".nav-primary"]}};
+</script>
+<script src='https://demo.studiopress.com/genesis-sample/wp-content/themes/genesis/lib/js/menu/responsive-menus.min.js?ver=1.1.3'></script>
+<script src='https://demo.studiopress.com/genesis-sample/wp-includes/js/wp-embed.min.js?ver=5.3.2'></script>
+</body></html>

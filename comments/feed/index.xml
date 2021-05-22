@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments for Badabings	</title>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Wed, 15 Aug 2018 11:50:35 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		Comment on WordPress Resources at SiteGround by A WordPress Commenter		</title>
+		<link>/wordpress-resources-at-siteground/#comment-1</link>
+
+		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
+		<pubDate>Wed, 15 Aug 2018 11:50:35 +0000</pubDate>
+		<guid isPermaLink="false">http://andrewl16.sg-host.com/wordpress-resources-at-siteground/#comment-1</guid>
+
+					<description><![CDATA[Hi, this is a comment.
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
+Commenter avatars come from &lt;a href=&quot;https://gravatar.com&quot;/ rel=&quot;nofollow ugc&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
+			<content:encoded><![CDATA[<p>Hi, this is a comment.<br />
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.<br />
+Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">Gravatar</a>.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Post With Threaded Comments by Brian Gardner		</title>
+		<link>/threaded-comments/#comment-8</link>
+
+		<dc:creator><![CDATA[Brian Gardner]]></dc:creator>
+		<pubDate>Sat, 01 Nov 2014 19:14:38 +0000</pubDate>
+		<guid isPermaLink="false">http://demo.studiopress.com/genesis/?p=20#comment-8</guid>
+
+					<description><![CDATA[This is an example of a comment made on a post. You can either edit the comment, delete the comment or reply to the comment. Use this as a place to respond to the post or to share what you are thinking.]]></description>
+			<content:encoded><![CDATA[<p>This is an example of a comment made on a post. You can either edit the comment, delete the comment or reply to the comment. Use this as a place to respond to the post or to share what you are thinking.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Post With Threaded Comments by Brian Gardner		</title>
+		<link>/threaded-comments/#comment-7</link>
+
+		<dc:creator><![CDATA[Brian Gardner]]></dc:creator>
+		<pubDate>Sat, 01 Nov 2014 19:14:25 +0000</pubDate>
+		<guid isPermaLink="false">http://demo.studiopress.com/genesis/?p=20#comment-7</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/threaded-comments/#comment-6&quot;&gt;Brian Gardner&lt;/a&gt;.
+
+This is an example of a nested threaded comment which is new in WordPress 2.7. This is where you can reply to a comment that was previously made, and visually makes reading comments to much easier.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/threaded-comments/#comment-6">Brian Gardner</a>.</p>
+<p>This is an example of a nested threaded comment which is new in WordPress 2.7. This is where you can reply to a comment that was previously made, and visually makes reading comments to much easier.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Post With Threaded Comments by Brian Gardner		</title>
+		<link>/threaded-comments/#comment-6</link>
+
+		<dc:creator><![CDATA[Brian Gardner]]></dc:creator>
+		<pubDate>Sat, 01 Nov 2014 19:14:19 +0000</pubDate>
+		<guid isPermaLink="false">http://demo.studiopress.com/genesis/?p=20#comment-6</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/threaded-comments/#comment-5&quot;&gt;Brian Gardner&lt;/a&gt;.
+
+This is an example of a nested threaded comment which is new in WordPress 2.7. This is where you can reply to a comment that was previously made, and visually makes reading comments to much easier.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/threaded-comments/#comment-5">Brian Gardner</a>.</p>
+<p>This is an example of a nested threaded comment which is new in WordPress 2.7. This is where you can reply to a comment that was previously made, and visually makes reading comments to much easier.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Post With Threaded Comments by Brian Gardner		</title>
+		<link>/threaded-comments/#comment-5</link>
+
+		<dc:creator><![CDATA[Brian Gardner]]></dc:creator>
+		<pubDate>Sat, 01 Nov 2014 19:14:11 +0000</pubDate>
+		<guid isPermaLink="false">http://demo.studiopress.com/genesis/?p=20#comment-5</guid>
+
+					<description><![CDATA[This is an example of a comment made on a post. You can either edit the comment, delete the comment or reply to the comment. Use this as a place to respond to the post or to share what you are thinking.]]></description>
+			<content:encoded><![CDATA[<p>This is an example of a comment made on a post. You can either edit the comment, delete the comment or reply to the comment. Use this as a place to respond to the post or to share what you are thinking.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Post With Threaded Comments by Brian Gardner		</title>
+		<link>/threaded-comments/#comment-4</link>
+
+		<dc:creator><![CDATA[Brian Gardner]]></dc:creator>
+		<pubDate>Sat, 01 Nov 2014 19:14:04 +0000</pubDate>
+		<guid isPermaLink="false">http://demo.studiopress.com/genesis/?p=20#comment-4</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/threaded-comments/#comment-3&quot;&gt;Brian Gardner&lt;/a&gt;.
+
+This is an example of a nested threaded comment which is new in WordPress 2.7. This is where you can reply to a comment that was previously made, and visually makes reading comments to much easier.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/threaded-comments/#comment-3">Brian Gardner</a>.</p>
+<p>This is an example of a nested threaded comment which is new in WordPress 2.7. This is where you can reply to a comment that was previously made, and visually makes reading comments to much easier.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Post With Threaded Comments by Brian Gardner		</title>
+		<link>/threaded-comments/#comment-3</link>
+
+		<dc:creator><![CDATA[Brian Gardner]]></dc:creator>
+		<pubDate>Sat, 01 Nov 2014 19:13:54 +0000</pubDate>
+		<guid isPermaLink="false">http://demo.studiopress.com/genesis/?p=20#comment-3</guid>
+
+					<description><![CDATA[This is an example of a comment made on a post. You can either edit the comment, delete the comment or reply to the comment. Use this as a place to respond to the post or to share what you are thinking.]]></description>
+			<content:encoded><![CDATA[<p>This is an example of a comment made on a post. You can either edit the comment, delete the comment or reply to the comment. Use this as a place to respond to the post or to share what you are thinking.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Sample Post With Threaded Comments by Brian Gardner		</title>
+		<link>/threaded-comments-2/#comment-240</link>
+
+		<dc:creator><![CDATA[Brian Gardner]]></dc:creator>
+		<pubDate>Sun, 01 Sep 2013 19:14:38 +0000</pubDate>
+		<guid isPermaLink="false">http://demo.studiopress.com/genesis/?p=20#comment-240</guid>
+
+					<description><![CDATA[This is an example of a comment made on a post. You can either edit the comment, delete the comment or reply to the comment. Use this as a place to respond to the post or to share what you are thinking.]]></description>
+			<content:encoded><![CDATA[<p>This is an example of a comment made on a post. You can either edit the comment, delete the comment or reply to the comment. Use this as a place to respond to the post or to share what you are thinking.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Sample Post With Threaded Comments by Brian Gardner		</title>
+		<link>/threaded-comments-2/#comment-239</link>
+
+		<dc:creator><![CDATA[Brian Gardner]]></dc:creator>
+		<pubDate>Sun, 01 Sep 2013 19:14:25 +0000</pubDate>
+		<guid isPermaLink="false">http://demo.studiopress.com/genesis/?p=20#comment-239</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/threaded-comments-2/#comment-238&quot;&gt;Brian Gardner&lt;/a&gt;.
+
+This is an example of a nested threaded comment which is new in WordPress 2.7. This is where you can reply to a comment that was previously made, and visually makes reading comments to much easier.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/threaded-comments-2/#comment-238">Brian Gardner</a>.</p>
+<p>This is an example of a nested threaded comment which is new in WordPress 2.7. This is where you can reply to a comment that was previously made, and visually makes reading comments to much easier.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Sample Post With Threaded Comments by Brian Gardner		</title>
+		<link>/threaded-comments-2/#comment-238</link>
+
+		<dc:creator><![CDATA[Brian Gardner]]></dc:creator>
+		<pubDate>Sun, 01 Sep 2013 19:14:19 +0000</pubDate>
+		<guid isPermaLink="false">http://demo.studiopress.com/genesis/?p=20#comment-238</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/threaded-comments-2/#comment-237&quot;&gt;Brian Gardner&lt;/a&gt;.
+
+This is an example of a nested threaded comment which is new in WordPress 2.7. This is where you can reply to a comment that was previously made, and visually makes reading comments to much easier.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/threaded-comments-2/#comment-237">Brian Gardner</a>.</p>
+<p>This is an example of a nested threaded comment which is new in WordPress 2.7. This is where you can reply to a comment that was previously made, and visually makes reading comments to much easier.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
