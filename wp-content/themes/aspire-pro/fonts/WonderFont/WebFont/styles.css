@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'WonderFont';
+  src: url('WonderFont.eot?#iefix') format('embedded-opentype'),  url('WonderFont.otf')  format('opentype'),
+	     url('WonderFont.woff') format('woff'), url('WonderFont.ttf')  format('truetype'), url('WonderFont.svg#WonderFont') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
