@@ -1,12 +1,11 @@
-jQuery(function( $ ){
+jQuery(function ($) {
+  // Local Scroll Speed
+  $.localScroll({
+    duration: 750,
+  });
 
-	// Local Scroll Speed
-	$.localScroll({
-		duration: 750
-	});
-
-	// Image Section Height
-	/*var windowHeight = $( window ).height();
+  // Image Section Height
+  /*var windowHeight = $( window ).height();
 
 	$( '.fp1' ) .css({'height': windowHeight +'px'});
 
@@ -17,5 +16,18 @@ jQuery(function( $ ){
 		$( '.fp1' ) .css({'height': windowHeight +'px'});
 
 	});*/
-
+  function scrollNav() {
+    $("#anchor a").click(function () {
+      $("html, body")
+        .stop()
+        .animate(
+          {
+            scrollTop: $($(this).attr("href")).offset().top,
+          },
+          300
+        );
+      return false;
+    });
+  }
+  scrollNav();
 });
